@@ -1,1 +1,1 @@
-Cliente en React haciendo uso de props y state para consumir la API de [https://api.olmecatest.website/api/].
+Basic client in React that makes use of props and state to consume the API of [https://api.olmecatest.website/api/].
